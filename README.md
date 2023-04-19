@@ -37,13 +37,12 @@ ex) 가설 예시
 <img width="1044" alt="image" src="https://user-images.githubusercontent.com/114198737/230853285-99a4e30c-8a60-489d-a027-7c550be1c05c.png">
 
 2023.04.10 데이터 수집 완료
-데이터 정의서 추가 예정
+데이터셋 정의서 (closet_data_v3.csv 기준)
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/114198737/232987977-e97e22a0-0de5-4134-87fb-d4a42fda4361.png">
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/114198737/232988412-63101a3e-3c8f-4146-9e6d-ddc89a91be02.png">
 
-### 데이터 살펴보기 (with Tableau)
+### 데이터 살펴보기 (with Tableau) (closet_data_v1 기준)
 <img width="989" alt="태블로1" src="https://user-images.githubusercontent.com/114198737/231694364-d1ac28ea-cb77-418a-8a42-078656babd9a.png">
 <img width="984" alt="태블로2" src="https://user-images.githubusercontent.com/114198737/231694394-292b11a6-5a09-4d71-8935-fba0ab350337.png">
 <img width="945" alt="태블로3" src="https://user-images.githubusercontent.com/114198737/232975937-313431e2-a287-42aa-ba17-b8136a180ade.png">
 <img width="986" alt="태블로4" src="https://user-images.githubusercontent.com/114198737/231694444-13c29615-8002-4c31-831a-da7188ee4cc0.png">
-
-
-
