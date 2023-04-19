@@ -42,7 +42,7 @@ ex) 가설 예시
 ### 데이터 살펴보기 (with Tableau)
 <img width="989" alt="태블로1" src="https://user-images.githubusercontent.com/114198737/231694364-d1ac28ea-cb77-418a-8a42-078656babd9a.png">
 <img width="984" alt="태블로2" src="https://user-images.githubusercontent.com/114198737/231694394-292b11a6-5a09-4d71-8935-fba0ab350337.png">
-<img width="1007" alt="태블로3" src="https://user-images.githubusercontent.com/114198737/231694418-b7981e23-9bd0-457a-ae0a-687289a77433.png">
+<img width="945" alt="태블로3" src="https://user-images.githubusercontent.com/114198737/232975937-313431e2-a287-42aa-ba17-b8136a180ade.png">
 <img width="986" alt="태블로4" src="https://user-images.githubusercontent.com/114198737/231694444-13c29615-8002-4c31-831a-da7188ee4cc0.png">
 
 
