@@ -39,8 +39,10 @@ ex) 가설 예시
 <img width="1044" alt="image" src="https://user-images.githubusercontent.com/114198737/230853285-99a4e30c-8a60-489d-a027-7c550be1c05c.png">
 
 2023.04.10 데이터 수집 완료
-- v1. 입력 완료 옷장 데이터 
-- v2. 수기로 보정을 마친 데이터 (띄어쓰기 및 오타 수정, 0과 1로 라벨링하기 전의 full버전 데이터)
+- v1: 입력 완료한 그대로의 옷장 데이터
+- v2:  수기로 보정을 마친 데이터 (띄어쓰기 및 오타 수정)
+- v3: 통계 및 머신러닝을 위해, 일부 컬럼 값을 0과 1로 보정한 데이터
+
 데이터셋 정의서 (closet_data_v3.csv 기준)
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/114198737/232987977-e97e22a0-0de5-4134-87fb-d4a42fda4361.png">
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/114198737/232988412-63101a3e-3c8f-4146-9e6d-ddc89a91be02.png">
