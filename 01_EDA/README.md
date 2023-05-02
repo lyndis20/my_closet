@@ -4,14 +4,11 @@
 목차
 
   * [Feature Distribution Plot](#feature-distribution-plot)
-    + [성공 점수 분포](#--------)
+
   * [Bivariate Distribution Plot](#bivariate-distribution-plot)
-    + [구매목적](#----)
-    + [계절](#--)
-    + [카테고리](#----)
-    + [결론](#--)
-  * [상관 분석 결과](#--------)
-    + [라벨 인코딩 상관 분석 결과](#---------------)
+
+  * [상관 분석 결과](#상관-분석-결과)
+
     
 ------
 
