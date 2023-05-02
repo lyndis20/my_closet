@@ -47,9 +47,8 @@ ex) 가설 예시
 
 2023.04.10 데이터 수집 완료 (150건)
 
-![데이터 v1]
-<img src="https://user-images.githubusercontent.com/114198737/235662940-20fb67ce-5965-49a5-bd40-053d1f249416.png"/>
 
+<img src="https://user-images.githubusercontent.com/114198737/235662940-20fb67ce-5965-49a5-bd40-053d1f249416.png"/>
 데이터 v1
 
 ### 데이터 버전
@@ -58,9 +57,7 @@ ex) 가설 예시
 - v2:  수기로 보정을 마친 데이터 (띄어쓰기 및 오타 수정)
 - v3: 통계 및 머신러닝을 위해, 일부 컬럼 값을 0과 1로 보정한 데이터
 
-![데이터 v3]
 <img src="https://user-images.githubusercontent.com/114198737/235663084-995eb65d-db6c-45ea-8d87-cde22af0288f.png"/>
-
 데이터 v3
 
 ### 데이터셋 정의서 (closet_data_v3.csv 기준)
@@ -76,6 +73,7 @@ ex) 가설 예시
 ## 분석결과 요약
 
 **시각화 결과 요약**
+전체 결과 링크: https://github.com/lyndis20/my_closet/tree/main/01_EDA
 
 **가격**
 
@@ -102,6 +100,7 @@ ex) 가설 예시
 - 여름 제품은 오프라인에서 브랜드 제품을 구매하는 것이 평균 성공점수가 높다
 
 **통게적 가설 검정 결과 요약**
+분석 결과 링크: https://github.com/lyndis20/my_closet/tree/main/02_Ttest
 
 - 하의와 겉옷은 입어보고 구매하든, 입어보지 않고 구매하든 성공 점수의 차이는 유의미하지 않다.
 - 상의와 원피스는 유행하는 디자인이든, 아니든 성공 점수의 차이는 유의미하지 않다.
@@ -111,6 +110,7 @@ ex) 가설 예시
 → 추후 표본의 개수를 늘려서 재분석이 필요하다.
 
 **머신러닝 요약**
+모델 결과 링크: https://github.com/lyndis20/my_closet/tree/main/03_ML
 
 - 분류 모델(RandomForestClassifier) accuracy score `0.833`
 - 가장 중요도가 높았던 피처는 `최근 1년 내 착용 여부` 이다.
