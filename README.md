@@ -9,7 +9,7 @@
 
 
 ### 주제 선정 배경
-<img width="50%" src="https://user-images.githubusercontent.com/114198737/235662873-79185329-738b-41aa-b333-a95d3a91011c.png"/>
+<img width="20%" src="https://user-images.githubusercontent.com/114198737/235662873-79185329-738b-41aa-b333-a95d3a91011c.png"/>
 
 계절이 바뀔 때마다 옷장을 열어보면 옷은 많지만, 막상 입을 옷이 없다! 🤔
 
